@@ -1,0 +1,1 @@
+console.log('Message from pkg2.js');
